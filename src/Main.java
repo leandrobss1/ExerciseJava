@@ -1,5 +1,18 @@
+
+import java.util.Scanner;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world, I am learning Java");
+
+        Pessoa objetoPessoa = new Pessoa();
+        Scanner leitor = new Scanner(System.in);
+
+        System.out.println("Digite seu peso: ");
+        objetoPessoa.setPeso(leitor.nextFloat());
+
+        System.out.println("Digite sua altura: ");
+        objetoPessoa.setAltura(leitor.nextFloat());
+
+        System.out.println("Seu IMC é: " + objetoPessoa.calcularIMC());
     }
 }
