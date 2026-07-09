@@ -1,5 +1,3 @@
-package Heranca;
-
 import java.util.Scanner;
 
 public class CarroVelho {
