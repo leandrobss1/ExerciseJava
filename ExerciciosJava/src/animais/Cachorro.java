@@ -1,7 +1,7 @@
 package animais;
 
 public class Cachorro extends Animal {
-    void latir(){
+    public void latir(){
         System.out.println("O cachorro latiu.");
     }
 }
