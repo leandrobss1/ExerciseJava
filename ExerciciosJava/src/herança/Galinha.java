@@ -1,4 +1,4 @@
-package animais;
+package herança;
 
 public class Galinha extends Animal{
     public void ciscar(){

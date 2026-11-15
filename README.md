@@ -1,12 +1,6 @@
 # Exercício de Lógica em Java
 
-Hoje, como parte dos meus estudos em Java, desenvolvi um pequeno programa para treinar lógica de programação na prática.  
-
-O objetivo do programa é:  
-- Ler um número digitado pelo usuário  
-- Identificar se o número é positivo, negativo ou igual a zero  
-- Permitir repetir o processo para testar diferentes valores de forma simples e interativa  
-
+Repositório com atualizações diárias do estudo em Java.
 
 ## Conceitos praticados
 
@@ -15,12 +9,8 @@ Nesse exercício, pratiquei:
 - ✔️ Laços de repetição  
 - ✔️ Entrada de dados com `Scanner`  
 - ✔️ Controle de fluxo  
-
-
-## Observações
-
-Pequenos projetos como esse fazem muita diferença no aprendizado. Cada exercício reforça a base, melhora o raciocínio lógico e aumenta 
-a confiança na linguagem. Um passo de cada vez, seguindo firme nos estudos! 🚀
+- ✔️ Herança e Polimorfismo
+- ✔️ Associação e Abstração
 
 
 ## Como executar

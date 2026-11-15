@@ -1,4 +1,4 @@
-package animais;
+package herança;
 
 public class Cachorro extends Animal {
     public void latir(){

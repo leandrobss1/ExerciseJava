@@ -1,4 +1,4 @@
-package animais;
+package herança;
 
 public class Animal {
     void comer(String alimento){
